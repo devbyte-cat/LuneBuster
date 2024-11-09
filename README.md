@@ -1,4 +1,4 @@
-	#FF0000 Important Educational Purposes only
+#FF0000 Important Educational Purposes only
 
 Nedir
   Lunecraft adındaki sunucunun sitesindeki bir tane bugdan yararlanarak hesap çalmaya yarıyan bir eklenti
