@@ -1,4 +1,5 @@
 Nasıl Kullanılır
+  
   1-Sağ Ortadaki Releases'e bas
   
   ![image](https://github.com/user-attachments/assets/2586dd8c-6d35-464a-bc57-3423353a8470)
