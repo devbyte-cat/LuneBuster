@@ -1,3 +1,12 @@
+//Important// Educational Purposes only
+
+Nedir
+  Lunecraft adındaki sunucunun sitesindeki bir tane bugdan yararlanarak hesap çalmaya yarıyan bir eklenti
+  
+
+
+
+
 Nasıl Kullanılır
   
   1-Sağ Ortadaki Releases'e bas
@@ -26,6 +35,16 @@ Nasıl Kullanılır
   
   ![image](https://github.com/user-attachments/assets/f0d510bc-d5a0-4026-87eb-c252fb977c87)
   
-  7-Artık Başarıyla https://lunecraft.net/login e girip giriş yapıp Başarıyla bugu uygulayabilirsiniz
+  7-Artık Başarıyla https://lunecraft.net/login e girip kendi ana hesabınızla giriş yapıp Başarıyla hesap çalmaya başlayabilirsiniz
+
+  ÖNEMLİ API a erişme anahtarını almak için Ana Hesabınızla Giriş Yapmanız Gerekmektedir.Eğer Doğru yaptıysanız giriş yaptıktan sonra çalma menüsü açılacaktır 
 
 
+
+
+
+
+
+
+
+Hatalar için https://github.com/devbyte-cat/LuneBuster/issues
