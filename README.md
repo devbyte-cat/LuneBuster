@@ -10,8 +10,8 @@ Nasıl Kullanılır
   
   3-Sağ tıkla ve zipten çıkar
   
-  ![image](https://github.com/user-attachments/assets/6749c204-d4f6-4837-9414-f5d6a8e0fbf8)
-  
+  ![image](https://github.com/user-attachments/assets/2582b0bc-ef0e-47c4-8cc1-0f2456107be3)
+
   4-chrome://extensions/'a gel ve Sağ üstdeki Geliştirici Modunu aç
   
   ![image](https://github.com/user-attachments/assets/cabfa2d3-442d-453d-adc5-9b661bd8453b)
